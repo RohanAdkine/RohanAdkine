@@ -8,9 +8,8 @@
 
 <h3><b>✦ 𝐌𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬 <b/><h3>  
 <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,git" alt="languages and tools image"/><br/><br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RohanAdkine" alt="Rohan Trophies. " /></a> </p>
 
 <img width=450 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RohanAdkine&count_private=true&theme=react&border_radius=5" alt="Rohan Streak"/><br/>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RohanAdkine" alt="Rohan Trophies. " /></a> </p>
 
 
