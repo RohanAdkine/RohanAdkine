@@ -42,7 +42,7 @@
 <h3><b>✦ Trophies</b></h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RohanAdkine&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RohanAdkine&theme=algolia&no-frame=true&margin-w=10" alt="Rohan Trophies"/>
 </p>
 
 ---
