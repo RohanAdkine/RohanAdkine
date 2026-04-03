@@ -42,9 +42,8 @@
 <h3><b>✦ Trophies</b></h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RohanAdkine&theme=algolia&no-frame=true&margin-w=10" alt="Rohan Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RohanAdkine&theme=flat&no-frame=true" />
 </p>
-
 ---
 
 <h3><b>✦ Contribution Snake</b></h3>
