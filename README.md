@@ -7,7 +7,7 @@
 <i>A Passionate Programmer From </i><b>Maharashtra.</b>
 </h4>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-adkine-401630214)](https://www.linkedin.com/in/rohan-adkine-401630214)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-adkine-401630214?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://www.linkedin.com/in/rohan-adkine-401630214?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rohanadkine@gmail.com)](mailto:rohanadkine@gmail.com)
 
 ---
@@ -31,23 +31,10 @@
 
 ---
 
-<h3><b>✦ GitHub Stats</b></h3>
+<img width=450 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RohanAdkine&count_private=true&theme=react&border_radius=5" alt="Rohan Streak"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=RohanAdkine&count_private=true&theme=react&border_radius=5" alt="Rohan Streak"/>
-</p>
-
----
-
-<h3><b>✦ Trophies</b></h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RohanAdkine&theme=flat&no-frame=true" />
-</p>
----
-
-<h3><b>✦ Contribution Snake</b></h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RohanAdkine/RohanAdkine/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RohanAdkine" alt="Rohan Trophies" />
+  </a>
 </p>
